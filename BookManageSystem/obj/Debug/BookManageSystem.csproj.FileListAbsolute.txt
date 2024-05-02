@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\学生图书管理系统\BookManageSystem\BookManageSystem\bin\Debug\BookManageSystem.exe.config
+C:\Users\Administrator\Desktop\学生图书管理系统\BookManageSystem\BookManageSystem\bin\Debug\BookManageSystem.exe
+C:\Users\Administrator\Desktop\学生图书管理系统\BookManageSystem\BookManageSystem\bin\Debug\BookManageSystem.pdb
+C:\Users\Administrator\Desktop\学生图书管理系统\BookManageSystem\BookManageSystem\obj\Debug\BookManageSystem.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\学生图书管理系统\BookManageSystem\BookManageSystem\obj\Debug\BookManageSystem.Form1.resources
+C:\Users\Administrator\Desktop\学生图书管理系统\BookManageSystem\BookManageSystem\obj\Debug\BookManageSystem.FormAdmin.resources
+C:\Users\Administrator\Desktop\学生图书管理系统\BookManageSystem\BookManageSystem\obj\Debug\BookManageSystem.FormUser.resources
+C:\Users\Administrator\Desktop\学生图书管理系统\BookManageSystem\BookManageSystem\obj\Debug\BookManageSystem.Properties.Resources.resources
+C:\Users\Administrator\Desktop\学生图书管理系统\BookManageSystem\BookManageSystem\obj\Debug\BookManageSystem.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\学生图书管理系统\BookManageSystem\BookManageSystem\obj\Debug\BookManageSystem.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\学生图书管理系统\BookManageSystem\BookManageSystem\obj\Debug\BookManageSystem.exe
+C:\Users\Administrator\Desktop\学生图书管理系统\BookManageSystem\BookManageSystem\obj\Debug\BookManageSystem.pdb
+C:\Users\Administrator\Desktop\学生图书管理系统\BookManageSystem\BookManageSystem\obj\Debug\BookManageSystem.FormRegister.resources
+C:\Users\Administrator\Desktop\学生图书管理系统\BookManageSystem\BookManageSystem\obj\Debug\BookManageSystem.FormUpdatePwd_Admin.resources
