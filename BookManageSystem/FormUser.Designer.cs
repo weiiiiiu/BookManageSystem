@@ -73,13 +73,14 @@
             // 修改密码ToolStripMenuItem
             // 
             this.修改密码ToolStripMenuItem.Name = "修改密码ToolStripMenuItem";
-            this.修改密码ToolStripMenuItem.Size = new System.Drawing.Size(283, 50);
+            this.修改密码ToolStripMenuItem.Size = new System.Drawing.Size(359, 50);
             this.修改密码ToolStripMenuItem.Text = "修改密码";
+            this.修改密码ToolStripMenuItem.Click += new System.EventHandler(this.修改密码ToolStripMenuItem_Click);
             // 
             // 注销账号ToolStripMenuItem
             // 
             this.注销账号ToolStripMenuItem.Name = "注销账号ToolStripMenuItem";
-            this.注销账号ToolStripMenuItem.Size = new System.Drawing.Size(283, 50);
+            this.注销账号ToolStripMenuItem.Size = new System.Drawing.Size(359, 50);
             this.注销账号ToolStripMenuItem.Text = "注销账号";
             this.注销账号ToolStripMenuItem.Click += new System.EventHandler(this.注销账号ToolStripMenuItem_Click);
             // 

@@ -56,5 +56,11 @@ namespace BookManageSystem
                 }
             }
         }
+
+        private void 修改密码ToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            FormUpdatePwd_User form = new FormUpdatePwd_User();
+            form.ShowDialog();
+        }
     }
 }

@@ -42,7 +42,7 @@
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.label1.Location = new System.Drawing.Point(132, 98);
+            this.label1.Location = new System.Drawing.Point(183, 157);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(114, 42);
             this.label1.TabIndex = 0;
@@ -51,7 +51,7 @@
             // txtOldPwd
             // 
             this.txtOldPwd.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.txtOldPwd.Location = new System.Drawing.Point(332, 95);
+            this.txtOldPwd.Location = new System.Drawing.Point(383, 154);
             this.txtOldPwd.Name = "txtOldPwd";
             this.txtOldPwd.Size = new System.Drawing.Size(339, 50);
             this.txtOldPwd.TabIndex = 1;
@@ -59,7 +59,7 @@
             // txtNewPwd
             // 
             this.txtNewPwd.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.txtNewPwd.Location = new System.Drawing.Point(332, 183);
+            this.txtNewPwd.Location = new System.Drawing.Point(383, 242);
             this.txtNewPwd.MaxLength = 6;
             this.txtNewPwd.Name = "txtNewPwd";
             this.txtNewPwd.Size = new System.Drawing.Size(339, 50);
@@ -70,7 +70,7 @@
             // 
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.label2.Location = new System.Drawing.Point(132, 194);
+            this.label2.Location = new System.Drawing.Point(183, 253);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(114, 42);
             this.label2.TabIndex = 2;
@@ -79,7 +79,7 @@
             // txtOkPwd
             // 
             this.txtOkPwd.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.txtOkPwd.Location = new System.Drawing.Point(332, 277);
+            this.txtOkPwd.Location = new System.Drawing.Point(383, 336);
             this.txtOkPwd.MaxLength = 6;
             this.txtOkPwd.Name = "txtOkPwd";
             this.txtOkPwd.Size = new System.Drawing.Size(339, 50);
@@ -90,7 +90,7 @@
             // 
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.label3.Location = new System.Drawing.Point(132, 289);
+            this.label3.Location = new System.Drawing.Point(183, 348);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(146, 42);
             this.label3.TabIndex = 4;
@@ -99,7 +99,7 @@
             // button1
             // 
             this.button1.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.button1.Location = new System.Drawing.Point(139, 427);
+            this.button1.Location = new System.Drawing.Point(190, 486);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(196, 82);
             this.button1.TabIndex = 6;
@@ -110,7 +110,7 @@
             // button2
             // 
             this.button2.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.button2.Location = new System.Drawing.Point(475, 427);
+            this.button2.Location = new System.Drawing.Point(526, 486);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(196, 82);
             this.button2.TabIndex = 7;
@@ -122,7 +122,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(12F, 24F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(892, 686);
+            this.ClientSize = new System.Drawing.Size(928, 745);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.txtOkPwd);
