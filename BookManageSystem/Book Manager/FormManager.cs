@@ -44,12 +44,11 @@ namespace BookManageSystem
                     reader[2].ToString(),
                     reader[3].ToString(),
                     reader[4].ToString(),
-                    reader[9].ToString(),//类型
+                    reader[9].ToString(), //类型
                     reader[5].ToString(),
                     reader[6].ToString(),
                     reader[7].ToString(),
                     reader[8].ToString()
-
                 );
             }
             reader.Close();
@@ -136,6 +135,7 @@ namespace BookManageSystem
                     reader[2].ToString(),
                     reader[3].ToString(),
                     reader[4].ToString(),
+                    reader[9].ToString(), //类型
                     reader[5].ToString(),
                     reader[6].ToString(),
                     reader[7].ToString(),
