@@ -67,6 +67,12 @@ namespace BookManageSystem
         {
             FormBorrowBook form = new FormBorrowBook();
             form.ShowDialog();
-        } 
+        }
+
+        private void 归还图书ToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            FormReturnBook form = new FormReturnBook();
+            form.ShowDialog();
+        }
     }
 }

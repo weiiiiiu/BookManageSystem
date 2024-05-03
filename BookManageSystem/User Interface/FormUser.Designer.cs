@@ -105,6 +105,7 @@
             this.归还图书ToolStripMenuItem.Name = "归还图书ToolStripMenuItem";
             this.归还图书ToolStripMenuItem.Size = new System.Drawing.Size(359, 52);
             this.归还图书ToolStripMenuItem.Text = "归还图书";
+            this.归还图书ToolStripMenuItem.Click += new System.EventHandler(this.归还图书ToolStripMenuItem_Click);
             // 
             // 图书评价ToolStripMenuItem
             // 

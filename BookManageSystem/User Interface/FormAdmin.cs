@@ -19,21 +19,32 @@ namespace BookManageSystem
 
         private void 退出登录ToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            if (DialogResult.Yes == MessageBox.Show(" 确认退出", "消息", MessageBoxButtons.YesNo, MessageBoxIcon.Question))
+            if (
+                DialogResult.Yes
+                == MessageBox.Show(" 确认退出", "消息", MessageBoxButtons.YesNo, MessageBoxIcon.Question)
+            )
             {
                 //退出
                 this.Close();
             }
         }
 
-        private void FormAdmin_Load(object sender, EventArgs e)//窗体加载事件
+        private void FormAdmin_Load(object sender, EventArgs e) //窗体加载事件
         {
             this.label1.Text = $"管理员:{Form1.name}        {Form1.id}";
         }
 
         private void 注销账号ToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            if (DialogResult.Yes == MessageBox.Show(" 确定注销当前账号吗", "消息", MessageBoxButtons.YesNo, MessageBoxIcon.Question))
+            if (
+                DialogResult.Yes
+                == MessageBox.Show(
+                    " 确定注销当前账号吗",
+                    "消息",
+                    MessageBoxButtons.YesNo,
+                    MessageBoxIcon.Question
+                )
+            )
             {
                 //删除
                 //获取注销账号
@@ -85,6 +96,18 @@ namespace BookManageSystem
         {
             FormManager form = new FormManager();
             form.ShowDialog();
+        }
+
+        private void 查看用户租借情况ToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            FormLookBorrow form = new FormLookBorrow();
+            form.ShowDialog();
+        }
+
+        private void 用户信息管理ToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            FormLookUser formLookUser = new FormLookUser();
+            formLookUser.ShowDialog();
         }
     }
 }

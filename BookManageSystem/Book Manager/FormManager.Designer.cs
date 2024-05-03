@@ -153,7 +153,7 @@
             // 
             this.button1.BackColor = System.Drawing.Color.MediumSlateBlue;
             this.button1.Font = new System.Drawing.Font("霞鹜文楷等宽 GB 屏幕阅读版", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.button1.Location = new System.Drawing.Point(1374, 64);
+            this.button1.Location = new System.Drawing.Point(1972, 61);
             this.button1.Margin = new System.Windows.Forms.Padding(4);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(194, 72);
@@ -166,7 +166,7 @@
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("霞鹜文楷等宽 GB 屏幕阅读版", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.label1.Location = new System.Drawing.Point(948, 72);
+            this.label1.Location = new System.Drawing.Point(1546, 69);
             this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(135, 43);
@@ -176,7 +176,7 @@
             // txtKey
             // 
             this.txtKey.Font = new System.Drawing.Font("霞鹜文楷等宽 GB 屏幕阅读版", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.txtKey.Location = new System.Drawing.Point(1114, 66);
+            this.txtKey.Location = new System.Drawing.Point(1712, 63);
             this.txtKey.Margin = new System.Windows.Forms.Padding(4);
             this.txtKey.Name = "txtKey";
             this.txtKey.Size = new System.Drawing.Size(220, 50);

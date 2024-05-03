@@ -108,7 +108,7 @@ namespace BookManageSystem
             }
             //租借       T_Book T_Borrow
             string sqlInsert =
-                $"insert into T_Borrow values('{key}','{Form1.name}','{Form1.id}','{name}','{date}','{num}')";
+                $"insert into T_Borrow values('{key}','{Form1.name}','{Form1.id}','{name}','{date}','{num}','{id}')";
             string sqlUpdate =
                 $"update T_Book set Num=Num-'{num}',BorrowCount=BorrowCount+'{num}' where Bid = '{id}'";
             if (dao.Execute(sqlInsert) > 0 && dao.Execute(sqlUpdate) > 0)

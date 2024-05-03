@@ -17,3 +17,6 @@ C:\Users\Administrator\Desktop\学生图书管理系统\BookManageSystem\BookMan
 C:\Users\Administrator\Desktop\学生图书管理系统\BookManageSystem\BookManageSystem\obj\Debug\BookManageSystem.FormManager.resources
 C:\Users\Administrator\Desktop\学生图书管理系统\BookManageSystem\BookManageSystem\obj\Debug\BookManageSystem.FormUpdateBook.resources
 C:\Users\Administrator\Desktop\学生图书管理系统\BookManageSystem\BookManageSystem\obj\Debug\BookManageSystem.FormBorrowBook.resources
+C:\Users\Administrator\Desktop\学生图书管理系统\BookManageSystem\BookManageSystem\obj\Debug\BookManageSystem.FormReturnBook.resources
+C:\Users\Administrator\Desktop\学生图书管理系统\BookManageSystem\BookManageSystem\obj\Debug\BookManageSystem.FormLookBorrow.resources
+C:\Users\Administrator\Desktop\学生图书管理系统\BookManageSystem\BookManageSystem\obj\Debug\BookManageSystem.FormLookUser.resources
