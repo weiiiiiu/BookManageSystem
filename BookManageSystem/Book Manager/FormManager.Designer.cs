@@ -28,7 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle3 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle1 = new System.Windows.Forms.DataGridViewCellStyle();
             this.dgv = new System.Windows.Forms.DataGridView();
             this.Column1 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Column2 = new System.Windows.Forms.DataGridViewTextBoxColumn();
@@ -71,21 +71,21 @@
             this.Column8,
             this.Column9,
             this.Column10});
-            this.dgv.Location = new System.Drawing.Point(27, 171);
+            this.dgv.Location = new System.Drawing.Point(144, 178);
             this.dgv.Margin = new System.Windows.Forms.Padding(4);
             this.dgv.Name = "dgv";
-            dataGridViewCellStyle3.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle3.BackColor = System.Drawing.SystemColors.Control;
-            dataGridViewCellStyle3.Font = new System.Drawing.Font("霞鹜文楷等宽 GB 屏幕阅读版", 15F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            dataGridViewCellStyle3.ForeColor = System.Drawing.SystemColors.WindowText;
-            dataGridViewCellStyle3.SelectionBackColor = System.Drawing.SystemColors.Highlight;
-            dataGridViewCellStyle3.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
-            dataGridViewCellStyle3.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
-            this.dgv.RowHeadersDefaultCellStyle = dataGridViewCellStyle3;
+            dataGridViewCellStyle1.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle1.BackColor = System.Drawing.SystemColors.Control;
+            dataGridViewCellStyle1.Font = new System.Drawing.Font("霞鹜文楷等宽 GB 屏幕阅读版", 15F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            dataGridViewCellStyle1.ForeColor = System.Drawing.SystemColors.WindowText;
+            dataGridViewCellStyle1.SelectionBackColor = System.Drawing.SystemColors.Highlight;
+            dataGridViewCellStyle1.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle1.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
+            this.dgv.RowHeadersDefaultCellStyle = dataGridViewCellStyle1;
             this.dgv.RowHeadersWidth = 82;
             this.dgv.RowTemplate.Height = 37;
             this.dgv.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
-            this.dgv.Size = new System.Drawing.Size(1755, 852);
+            this.dgv.Size = new System.Drawing.Size(2038, 908);
             this.dgv.TabIndex = 0;
             this.dgv.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgv_CellClick);
             // 
@@ -187,7 +187,7 @@
             this.splitter1.Location = new System.Drawing.Point(0, 0);
             this.splitter1.Margin = new System.Windows.Forms.Padding(4);
             this.splitter1.Name = "splitter1";
-            this.splitter1.Size = new System.Drawing.Size(8, 1181);
+            this.splitter1.Size = new System.Drawing.Size(8, 1208);
             this.splitter1.TabIndex = 4;
             this.splitter1.TabStop = false;
             // 
@@ -195,7 +195,7 @@
             // 
             this.button2.BackColor = System.Drawing.Color.MediumSlateBlue;
             this.button2.Font = new System.Drawing.Font("霞鹜文楷等宽 GB 屏幕阅读版", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.button2.Location = new System.Drawing.Point(144, 1052);
+            this.button2.Location = new System.Drawing.Point(422, 1115);
             this.button2.Margin = new System.Windows.Forms.Padding(4);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(180, 80);
@@ -208,7 +208,7 @@
             // 
             this.button3.BackColor = System.Drawing.Color.MediumSlateBlue;
             this.button3.Font = new System.Drawing.Font("霞鹜文楷等宽 GB 屏幕阅读版", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.button3.Location = new System.Drawing.Point(1000, 1052);
+            this.button3.Location = new System.Drawing.Point(1278, 1115);
             this.button3.Margin = new System.Windows.Forms.Padding(4);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(180, 80);
@@ -221,7 +221,7 @@
             // 
             this.button4.BackColor = System.Drawing.Color.MediumSlateBlue;
             this.button4.Font = new System.Drawing.Font("霞鹜文楷等宽 GB 屏幕阅读版", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.button4.Location = new System.Drawing.Point(552, 1052);
+            this.button4.Location = new System.Drawing.Point(830, 1115);
             this.button4.Margin = new System.Windows.Forms.Padding(4);
             this.button4.Name = "button4";
             this.button4.Size = new System.Drawing.Size(180, 80);
@@ -234,7 +234,7 @@
             // 
             this.button5.BackColor = System.Drawing.Color.MediumSlateBlue;
             this.button5.Font = new System.Drawing.Font("霞鹜文楷等宽 GB 屏幕阅读版", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.button5.Location = new System.Drawing.Point(1484, 1052);
+            this.button5.Location = new System.Drawing.Point(1762, 1115);
             this.button5.Margin = new System.Windows.Forms.Padding(4);
             this.button5.Name = "button5";
             this.button5.Size = new System.Drawing.Size(180, 80);
@@ -295,7 +295,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(12F, 24F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1821, 1181);
+            this.ClientSize = new System.Drawing.Size(2325, 1208);
             this.Controls.Add(this.LbName);
             this.Controls.Add(this.LbId);
             this.Controls.Add(this.label3);
@@ -313,6 +313,7 @@
             this.Name = "FormManager";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "图书管理";
+            this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
             this.Load += new System.EventHandler(this.FormManager_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dgv)).EndInit();
             this.ResumeLayout(false);

@@ -261,6 +261,7 @@
             this.Controls.Add(this.txtId);
             this.Controls.Add(this.label1);
             this.Name = "FormUpdateBook";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterParent;
             this.Text = "FormUpdateBook";
             this.Load += new System.EventHandler(this.FormUpdateBook_Load);
             this.ResumeLayout(false);

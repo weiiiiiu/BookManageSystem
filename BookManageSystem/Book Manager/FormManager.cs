@@ -176,6 +176,12 @@ namespace BookManageSystem
 
         private void button3_Click(object sender, EventArgs e)
         {
+            string id = LbId.Text;
+            if (id == "NULL")
+            {
+                MessageBox.Show("未选中图书！", "消息", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                return;
+            }
             FormUpdateBook form = new FormUpdateBook();
             form.ShowDialog();
         }
