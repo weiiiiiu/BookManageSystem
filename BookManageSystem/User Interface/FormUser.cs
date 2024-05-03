@@ -62,5 +62,11 @@ namespace BookManageSystem
             FormUpdatePwd_User form = new FormUpdatePwd_User();
             form.ShowDialog();
         }
+
+        private void 租借图书ToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            FormBorrowBook form = new FormBorrowBook();
+            form.ShowDialog();
+        } 
     }
 }

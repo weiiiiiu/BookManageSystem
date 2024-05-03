@@ -57,7 +57,7 @@
             this.退出登录ToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(1342, 55);
+            this.menuStrip1.Size = new System.Drawing.Size(1342, 51);
             this.menuStrip1.TabIndex = 1;
             this.menuStrip1.Text = "menuStrip1";
             // 
@@ -67,20 +67,20 @@
             this.修改密码ToolStripMenuItem,
             this.注销账号ToolStripMenuItem});
             this.个人信息管理ToolStripMenuItem.Name = "个人信息管理ToolStripMenuItem";
-            this.个人信息管理ToolStripMenuItem.Size = new System.Drawing.Size(230, 46);
+            this.个人信息管理ToolStripMenuItem.Size = new System.Drawing.Size(237, 47);
             this.个人信息管理ToolStripMenuItem.Text = "个人信息管理";
             // 
             // 修改密码ToolStripMenuItem
             // 
             this.修改密码ToolStripMenuItem.Name = "修改密码ToolStripMenuItem";
-            this.修改密码ToolStripMenuItem.Size = new System.Drawing.Size(283, 50);
+            this.修改密码ToolStripMenuItem.Size = new System.Drawing.Size(289, 52);
             this.修改密码ToolStripMenuItem.Text = "修改密码";
             this.修改密码ToolStripMenuItem.Click += new System.EventHandler(this.修改密码ToolStripMenuItem_Click);
             // 
             // 注销账号ToolStripMenuItem
             // 
             this.注销账号ToolStripMenuItem.Name = "注销账号ToolStripMenuItem";
-            this.注销账号ToolStripMenuItem.Size = new System.Drawing.Size(283, 50);
+            this.注销账号ToolStripMenuItem.Size = new System.Drawing.Size(289, 52);
             this.注销账号ToolStripMenuItem.Text = "注销账号";
             this.注销账号ToolStripMenuItem.Click += new System.EventHandler(this.注销账号ToolStripMenuItem_Click);
             // 
@@ -90,19 +90,20 @@
             this.租借图书ToolStripMenuItem,
             this.归还图书ToolStripMenuItem});
             this.租借管理ToolStripMenuItem.Name = "租借管理ToolStripMenuItem";
-            this.租借管理ToolStripMenuItem.Size = new System.Drawing.Size(166, 46);
+            this.租借管理ToolStripMenuItem.Size = new System.Drawing.Size(171, 47);
             this.租借管理ToolStripMenuItem.Text = "租借管理";
             // 
             // 租借图书ToolStripMenuItem
             // 
             this.租借图书ToolStripMenuItem.Name = "租借图书ToolStripMenuItem";
-            this.租借图书ToolStripMenuItem.Size = new System.Drawing.Size(283, 50);
+            this.租借图书ToolStripMenuItem.Size = new System.Drawing.Size(359, 52);
             this.租借图书ToolStripMenuItem.Text = "租借图书";
+            this.租借图书ToolStripMenuItem.Click += new System.EventHandler(this.租借图书ToolStripMenuItem_Click);
             // 
             // 归还图书ToolStripMenuItem
             // 
             this.归还图书ToolStripMenuItem.Name = "归还图书ToolStripMenuItem";
-            this.归还图书ToolStripMenuItem.Size = new System.Drawing.Size(283, 50);
+            this.归还图书ToolStripMenuItem.Size = new System.Drawing.Size(359, 52);
             this.归还图书ToolStripMenuItem.Text = "归还图书";
             // 
             // 图书评价ToolStripMenuItem
@@ -110,13 +111,13 @@
             this.图书评价ToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.查看评价ToolStripMenuItem});
             this.图书评价ToolStripMenuItem.Name = "图书评价ToolStripMenuItem";
-            this.图书评价ToolStripMenuItem.Size = new System.Drawing.Size(166, 46);
+            this.图书评价ToolStripMenuItem.Size = new System.Drawing.Size(171, 47);
             this.图书评价ToolStripMenuItem.Text = "图书评价";
             // 
             // 查看评价ToolStripMenuItem
             // 
             this.查看评价ToolStripMenuItem.Name = "查看评价ToolStripMenuItem";
-            this.查看评价ToolStripMenuItem.Size = new System.Drawing.Size(283, 50);
+            this.查看评价ToolStripMenuItem.Size = new System.Drawing.Size(289, 52);
             this.查看评价ToolStripMenuItem.Text = "查看评价";
             // 
             // 系统反馈ToolStripMenuItem
@@ -124,20 +125,20 @@
             this.系统反馈ToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.反馈到管理员ToolStripMenuItem});
             this.系统反馈ToolStripMenuItem.Name = "系统反馈ToolStripMenuItem";
-            this.系统反馈ToolStripMenuItem.Size = new System.Drawing.Size(166, 46);
+            this.系统反馈ToolStripMenuItem.Size = new System.Drawing.Size(171, 47);
             this.系统反馈ToolStripMenuItem.Text = "系统反馈";
             // 
             // 反馈到管理员ToolStripMenuItem
             // 
             this.反馈到管理员ToolStripMenuItem.Name = "反馈到管理员ToolStripMenuItem";
-            this.反馈到管理员ToolStripMenuItem.Size = new System.Drawing.Size(347, 50);
+            this.反馈到管理员ToolStripMenuItem.Size = new System.Drawing.Size(355, 52);
             this.反馈到管理员ToolStripMenuItem.Text = "反馈到管理员";
             // 
             // 退出登录ToolStripMenuItem
             // 
             this.退出登录ToolStripMenuItem.ForeColor = System.Drawing.Color.Red;
             this.退出登录ToolStripMenuItem.Name = "退出登录ToolStripMenuItem";
-            this.退出登录ToolStripMenuItem.Size = new System.Drawing.Size(166, 46);
+            this.退出登录ToolStripMenuItem.Size = new System.Drawing.Size(171, 47);
             this.退出登录ToolStripMenuItem.Text = "退出登录";
             this.退出登录ToolStripMenuItem.Click += new System.EventHandler(this.退出登录ToolStripMenuItem_Click);
             // 

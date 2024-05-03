@@ -47,6 +47,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Dao.cs" />
+    <Compile Include="FormBorrowBook.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormBorrowBook.Designer.cs">
+      <DependentUpon>FormBorrowBook.cs</DependentUpon>
+    </Compile>
     <Compile Include="Login And Register\Form1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -103,6 +109,9 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FormBorrowBook.resx">
+      <DependentUpon>FormBorrowBook.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Login And Register\Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
