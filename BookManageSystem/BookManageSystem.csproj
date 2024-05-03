@@ -47,78 +47,87 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Dao.cs" />
-    <Compile Include="Form1.cs">
+    <Compile Include="Login And Register\Form1.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
+    <Compile Include="Login And Register\Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
-    <Compile Include="FormAddBook.cs">
+    <Compile Include="Book Manager\FormAddBook.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FormAddBook.Designer.cs">
+    <Compile Include="Book Manager\FormAddBook.Designer.cs">
       <DependentUpon>FormAddBook.cs</DependentUpon>
     </Compile>
-    <Compile Include="FormAdmin.cs">
+    <Compile Include="User Interface\FormAdmin.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FormAdmin.Designer.cs">
+    <Compile Include="User Interface\FormAdmin.Designer.cs">
       <DependentUpon>FormAdmin.cs</DependentUpon>
     </Compile>
-    <Compile Include="FormManager.cs">
+    <Compile Include="Book Manager\FormManager.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FormManager.Designer.cs">
+    <Compile Include="Book Manager\FormManager.Designer.cs">
       <DependentUpon>FormManager.cs</DependentUpon>
     </Compile>
-    <Compile Include="FormRegister.cs">
+    <Compile Include="Login And Register\FormRegister.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FormRegister.Designer.cs">
+    <Compile Include="Login And Register\FormRegister.Designer.cs">
       <DependentUpon>FormRegister.cs</DependentUpon>
     </Compile>
-    <Compile Include="FormUpdatePwd_Admin.cs">
+    <Compile Include="Book Manager\FormUpdateBook.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FormUpdatePwd_Admin.Designer.cs">
+    <Compile Include="Book Manager\FormUpdateBook.Designer.cs">
+      <DependentUpon>FormUpdateBook.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Update Password Interface\FormUpdatePwd_Admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Update Password Interface\FormUpdatePwd_Admin.Designer.cs">
       <DependentUpon>FormUpdatePwd_Admin.cs</DependentUpon>
     </Compile>
-    <Compile Include="FormUpdatePwd_User.cs">
+    <Compile Include="Update Password Interface\FormUpdatePwd_User.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FormUpdatePwd_User.Designer.cs">
+    <Compile Include="Update Password Interface\FormUpdatePwd_User.Designer.cs">
       <DependentUpon>FormUpdatePwd_User.cs</DependentUpon>
     </Compile>
-    <Compile Include="FormUser.cs">
+    <Compile Include="User Interface\FormUser.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FormUser.Designer.cs">
+    <Compile Include="User Interface\FormUser.Designer.cs">
       <DependentUpon>FormUser.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="Form1.resx">
+    <EmbeddedResource Include="Login And Register\Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="FormAddBook.resx">
+    <EmbeddedResource Include="Book Manager\FormAddBook.resx">
       <DependentUpon>FormAddBook.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="FormAdmin.resx">
+    <EmbeddedResource Include="User Interface\FormAdmin.resx">
       <DependentUpon>FormAdmin.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="FormManager.resx">
+    <EmbeddedResource Include="Book Manager\FormManager.resx">
       <DependentUpon>FormManager.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="FormRegister.resx">
+    <EmbeddedResource Include="Login And Register\FormRegister.resx">
       <DependentUpon>FormRegister.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="FormUpdatePwd_Admin.resx">
+    <EmbeddedResource Include="Book Manager\FormUpdateBook.resx">
+      <DependentUpon>FormUpdateBook.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Update Password Interface\FormUpdatePwd_Admin.resx">
       <DependentUpon>FormUpdatePwd_Admin.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="FormUpdatePwd_User.resx">
+    <EmbeddedResource Include="Update Password Interface\FormUpdatePwd_User.resx">
       <DependentUpon>FormUpdatePwd_User.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="FormUser.resx">
+    <EmbeddedResource Include="User Interface\FormUser.resx">
       <DependentUpon>FormUser.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
