@@ -42,16 +42,16 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.label1.Font = new System.Drawing.Font("霞鹜文楷等宽 GB 屏幕阅读版", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.label1.Location = new System.Drawing.Point(125, 159);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(82, 42);
+            this.label1.Size = new System.Drawing.Size(85, 43);
             this.label1.TabIndex = 0;
             this.label1.Text = "账号";
             // 
             // txtId
             // 
-            this.txtId.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.txtId.Font = new System.Drawing.Font("霞鹜文楷等宽 GB 屏幕阅读版", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.txtId.Location = new System.Drawing.Point(298, 151);
             this.txtId.Name = "txtId";
             this.txtId.Size = new System.Drawing.Size(331, 50);
@@ -59,7 +59,7 @@
             // 
             // txtPwd
             // 
-            this.txtPwd.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.txtPwd.Font = new System.Drawing.Font("霞鹜文楷等宽 GB 屏幕阅读版", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.txtPwd.Location = new System.Drawing.Point(298, 251);
             this.txtPwd.Name = "txtPwd";
             this.txtPwd.Size = new System.Drawing.Size(331, 50);
@@ -69,16 +69,16 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.label2.Font = new System.Drawing.Font("霞鹜文楷等宽 GB 屏幕阅读版", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.label2.Location = new System.Drawing.Point(122, 259);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(82, 42);
+            this.label2.Size = new System.Drawing.Size(85, 43);
             this.label2.TabIndex = 2;
             this.label2.Text = "密码";
             // 
             // btnLogin
             // 
-            this.btnLogin.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.btnLogin.Font = new System.Drawing.Font("霞鹜文楷等宽 GB 屏幕阅读版", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.btnLogin.Location = new System.Drawing.Point(132, 473);
             this.btnLogin.Name = "btnLogin";
             this.btnLogin.Size = new System.Drawing.Size(180, 69);
@@ -89,7 +89,7 @@
             // 
             // btnExit
             // 
-            this.btnExit.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.btnExit.Font = new System.Drawing.Font("霞鹜文楷等宽 GB 屏幕阅读版", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.btnExit.Location = new System.Drawing.Point(452, 473);
             this.btnExit.Name = "btnExit";
             this.btnExit.Size = new System.Drawing.Size(180, 69);
@@ -100,7 +100,7 @@
             // 
             // btnRegister
             // 
-            this.btnRegister.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.btnRegister.Font = new System.Drawing.Font("霞鹜文楷等宽 GB 屏幕阅读版", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.btnRegister.Location = new System.Drawing.Point(752, 100);
             this.btnRegister.Name = "btnRegister";
             this.btnRegister.Size = new System.Drawing.Size(180, 69);
@@ -113,10 +113,10 @@
             // 
             this.rbtnUser.AutoSize = true;
             this.rbtnUser.Checked = true;
-            this.rbtnUser.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.rbtnUser.Font = new System.Drawing.Font("霞鹜文楷等宽 GB 屏幕阅读版", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.rbtnUser.Location = new System.Drawing.Point(129, 379);
             this.rbtnUser.Name = "rbtnUser";
-            this.rbtnUser.Size = new System.Drawing.Size(113, 46);
+            this.rbtnUser.Size = new System.Drawing.Size(116, 47);
             this.rbtnUser.TabIndex = 7;
             this.rbtnUser.TabStop = true;
             this.rbtnUser.Text = "用户";
@@ -125,10 +125,10 @@
             // rbtnAdmin
             // 
             this.rbtnAdmin.AutoSize = true;
-            this.rbtnAdmin.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.rbtnAdmin.Font = new System.Drawing.Font("霞鹜文楷等宽 GB 屏幕阅读版", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.rbtnAdmin.Location = new System.Drawing.Point(398, 379);
             this.rbtnAdmin.Name = "rbtnAdmin";
-            this.rbtnAdmin.Size = new System.Drawing.Size(145, 46);
+            this.rbtnAdmin.Size = new System.Drawing.Size(149, 47);
             this.rbtnAdmin.TabIndex = 8;
             this.rbtnAdmin.Text = "管理员";
             this.rbtnAdmin.UseVisualStyleBackColor = true;

@@ -14,3 +14,4 @@ C:\Users\Administrator\Desktop\学生图书管理系统\BookManageSystem\BookMan
 C:\Users\Administrator\Desktop\学生图书管理系统\BookManageSystem\BookManageSystem\obj\Debug\BookManageSystem.FormUpdatePwd_Admin.resources
 C:\Users\Administrator\Desktop\学生图书管理系统\BookManageSystem\BookManageSystem\obj\Debug\BookManageSystem.FormUpdatePwd_User.resources
 C:\Users\Administrator\Desktop\学生图书管理系统\BookManageSystem\BookManageSystem\obj\Debug\BookManageSystem.FormAddBook.resources
+C:\Users\Administrator\Desktop\学生图书管理系统\BookManageSystem\BookManageSystem\obj\Debug\BookManageSystem.FormManager.resources

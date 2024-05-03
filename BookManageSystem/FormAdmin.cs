@@ -68,5 +68,23 @@ namespace BookManageSystem
             FormAddBook form = new FormAddBook();
             form.ShowDialog();
         }
+
+        private void 修改图书ToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            FormManager form = new FormManager();
+            form.ShowDialog();
+        }
+
+        private void 下架图书ToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            FormManager form = new FormManager();
+            form.ShowDialog();
+        }
+
+        private void 搜索图书ToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            FormManager form = new FormManager();
+            form.ShowDialog();
+        }
     }
 }
