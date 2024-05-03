@@ -9,7 +9,6 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-
 //acceptbutton   默认按钮
 namespace BookManageSystem
 {
@@ -19,9 +18,11 @@ namespace BookManageSystem
         {
             InitializeComponent();
         }
+
         //用户账号和姓名
         public static int id;
         public static string name;
+
         //管理员登陆方法  获取账号密码对比数据库
         public void AdminLogin()
         {
@@ -45,7 +46,6 @@ namespace BookManageSystem
 
                 reader.Close();
                 dao.DaoClose();
-
 
                 FormAdmin form = new FormAdmin();
                 form.ShowDialog();
@@ -80,7 +80,6 @@ namespace BookManageSystem
                 reader.Close();
                 dao.DaoClose();
 
-
                 FormUser form = new FormUser();
                 form.ShowDialog();
             }
@@ -91,8 +90,6 @@ namespace BookManageSystem
             }
         }
 
-
-
         private void btnRegister_Click(object sender, EventArgs e)
         {
             FormRegister form = new FormRegister();
@@ -101,7 +98,10 @@ namespace BookManageSystem
 
         private void btnExit_Click(object sender, EventArgs e)
         {
-            if(DialogResult.Yes==MessageBox.Show(" 确认退出", "消息", MessageBoxButtons.YesNo, MessageBoxIcon.Question))
+            if (
+                DialogResult.Yes
+                == MessageBox.Show(" 确认退出", "消息", MessageBoxButtons.YesNo, MessageBoxIcon.Question)
+            )
             {
                 //退出
                 this.Close();
@@ -111,7 +111,7 @@ namespace BookManageSystem
         private void btnLogin_Click(object sender, EventArgs e)
         {
             //判断文本框是否为空
-            if ((txtId.Text==""||txtPwd.Text==""))
+            if ((txtId.Text == "" || txtPwd.Text == ""))
             {
                 MessageBox.Show("请填写完整信息！", "消息", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                 return;
@@ -121,7 +121,6 @@ namespace BookManageSystem
             {
                 //管理员登录
                 AdminLogin();
-
             }
             if (rbtnUser.Checked == true)
             {

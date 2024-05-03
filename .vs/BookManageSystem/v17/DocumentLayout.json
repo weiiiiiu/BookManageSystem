@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\\u5B66\u751F\u56FE\u4E66\u7BA1\u7406\u7CFB\u7EDF\\BookManageSystem\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6A3CA39D-6ED1-42DE-BE10-4495714FE513}|BookManageSystem\\BookManageSystem.csproj|C:\\Users\\Administrator\\Desktop\\\u5B66\u751F\u56FE\u4E66\u7BA1\u7406\u7CFB\u7EDF\\BookManageSystem\\bookmanagesystem\\formaddbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A3CA39D-6ED1-42DE-BE10-4495714FE513}|BookManageSystem\\BookManageSystem.csproj|solutionrelative:bookmanagesystem\\formaddbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6A3CA39D-6ED1-42DE-BE10-4495714FE513}|BookManageSystem\\BookManageSystem.csproj|c:\\users\\administrator\\desktop\\\u5B66\u751F\u56FE\u4E66\u7BA1\u7406\u7CFB\u7EDF\\bookmanagesystem\\bookmanagesystem\\formaddbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{6A3CA39D-6ED1-42DE-BE10-4495714FE513}|BookManageSystem\\BookManageSystem.csproj|solutionrelative:bookmanagesystem\\formaddbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6A3CA39D-6ED1-42DE-BE10-4495714FE513}|BookManageSystem\\BookManageSystem.csproj|c:\\users\\administrator\\desktop\\\u5B66\u751F\u56FE\u4E66\u7BA1\u7406\u7CFB\u7EDF\\bookmanagesystem\\bookmanagesystem\\formadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A3CA39D-6ED1-42DE-BE10-4495714FE513}|BookManageSystem\\BookManageSystem.csproj|solutionrelative:bookmanagesystem\\formadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6A3CA39D-6ED1-42DE-BE10-4495714FE513}|BookManageSystem\\BookManageSystem.csproj|C:\\Users\\Administrator\\Desktop\\\u5B66\u751F\u56FE\u4E66\u7BA1\u7406\u7CFB\u7EDF\\BookManageSystem\\bookmanagesystem\\dao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A3CA39D-6ED1-42DE-BE10-4495714FE513}|BookManageSystem\\BookManageSystem.csproj|solutionrelative:bookmanagesystem\\dao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6A3CA39D-6ED1-42DE-BE10-4495714FE513}|BookManageSystem\\BookManageSystem.csproj|C:\\Users\\Administrator\\Desktop\\\u5B66\u751F\u56FE\u4E66\u7BA1\u7406\u7CFB\u7EDF\\BookManageSystem\\bookmanagesystem\\formadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -19,8 +23,8 @@
       "RelativeMoniker": "D:0:0:{6A3CA39D-6ED1-42DE-BE10-4495714FE513}|BookManageSystem\\BookManageSystem.csproj|solutionrelative:bookmanagesystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6A3CA39D-6ED1-42DE-BE10-4495714FE513}|BookManageSystem\\BookManageSystem.csproj|C:\\Users\\Administrator\\Desktop\\\u5B66\u751F\u56FE\u4E66\u7BA1\u7406\u7CFB\u7EDF\\BookManageSystem\\bookmanagesystem\\dao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A3CA39D-6ED1-42DE-BE10-4495714FE513}|BookManageSystem\\BookManageSystem.csproj|solutionrelative:bookmanagesystem\\dao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6A3CA39D-6ED1-42DE-BE10-4495714FE513}|BookManageSystem\\BookManageSystem.csproj|C:\\Users\\Administrator\\Desktop\\\u5B66\u751F\u56FE\u4E66\u7BA1\u7406\u7CFB\u7EDF\\BookManageSystem\\bookmanagesystem\\formadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A3CA39D-6ED1-42DE-BE10-4495714FE513}|BookManageSystem\\BookManageSystem.csproj|solutionrelative:bookmanagesystem\\formadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,73 +34,92 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormAdmin.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\\u5B66\u751F\u56FE\u4E66\u7BA1\u7406\u7CFB\u7EDF\\BookManageSystem\\BookManageSystem\\FormAdmin.cs",
+              "RelativeDocumentMoniker": "BookManageSystem\\FormAdmin.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\\u5B66\u751F\u56FE\u4E66\u7BA1\u7406\u7CFB\u7EDF\\BookManageSystem\\BookManageSystem\\FormAdmin.cs",
+              "RelativeToolTip": "BookManageSystem\\FormAdmin.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAawEMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T09:27:17.816Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dao.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\\u5B66\u751F\u56FE\u4E66\u7BA1\u7406\u7CFB\u7EDF\\BookManageSystem\\BookManageSystem\\Dao.cs",
+              "RelativeDocumentMoniker": "BookManageSystem\\Dao.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\\u5B66\u751F\u56FE\u4E66\u7BA1\u7406\u7CFB\u7EDF\\BookManageSystem\\BookManageSystem\\Dao.cs",
+              "RelativeToolTip": "BookManageSystem\\Dao.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA8wBwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T18:33:16.635Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\\u5B66\u751F\u56FE\u4E66\u7BA1\u7406\u7CFB\u7EDF\\BookManageSystem\\BookManageSystem\\Form1.cs",
+              "RelativeDocumentMoniker": "BookManageSystem\\Form1.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\\u5B66\u751F\u56FE\u4E66\u7BA1\u7406\u7CFB\u7EDF\\BookManageSystem\\BookManageSystem\\Form1.cs",
+              "RelativeToolTip": "BookManageSystem\\Form1.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAA0wDgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T18:57:18.539Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FormAdmin.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\\u5B66\u751F\u56FE\u4E66\u7BA1\u7406\u7CFB\u7EDF\\BookManageSystem\\BookManageSystem\\FormAdmin.cs",
-              "RelativeDocumentMoniker": "BookManageSystem\\FormAdmin.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\\u5B66\u751F\u56FE\u4E66\u7BA1\u7406\u7CFB\u7EDF\\BookManageSystem\\BookManageSystem\\FormAdmin.cs",
-              "RelativeToolTip": "BookManageSystem\\FormAdmin.cs",
-              "ViewState": "AQIAADcAAAAAAAAAAAD4v0QAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T09:27:17.816Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "FormAddBook.cs [\u8BBE\u8BA1]",
+              "Title": "FormAddBook.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\\u5B66\u751F\u56FE\u4E66\u7BA1\u7406\u7CFB\u7EDF\\BookManageSystem\\BookManageSystem\\FormAddBook.cs",
               "RelativeDocumentMoniker": "BookManageSystem\\FormAddBook.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\\u5B66\u751F\u56FE\u4E66\u7BA1\u7406\u7CFB\u7EDF\\BookManageSystem\\BookManageSystem\\FormAddBook.cs [\u8BBE\u8BA1]",
-              "RelativeToolTip": "BookManageSystem\\FormAddBook.cs [\u8BBE\u8BA1]",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\\u5B66\u751F\u56FE\u4E66\u7BA1\u7406\u7CFB\u7EDF\\BookManageSystem\\BookManageSystem\\FormAddBook.cs",
+              "RelativeToolTip": "BookManageSystem\\FormAddBook.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAwwCYAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T09:26:45.259Z",
-              "EditorCaption": " [\u8BBE\u8BA1]"
+              "WhenOpened": "2024-05-03T06:17:48.975Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\\u5B66\u751F\u56FE\u4E66\u7BA1\u7406\u7CFB\u7EDF\\BookManageSystem\\BookManageSystem\\Form1.cs",
-              "RelativeDocumentMoniker": "BookManageSystem\\Form1.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\\u5B66\u751F\u56FE\u4E66\u7BA1\u7406\u7CFB\u7EDF\\BookManageSystem\\BookManageSystem\\Form1.cs",
-              "RelativeToolTip": "BookManageSystem\\Form1.cs",
-              "ViewState": "AQIAAEYAAAAAAAAAAAAAAAwAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T18:57:18.539Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Dao.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\\u5B66\u751F\u56FE\u4E66\u7BA1\u7406\u7CFB\u7EDF\\BookManageSystem\\BookManageSystem\\Dao.cs",
-              "RelativeDocumentMoniker": "BookManageSystem\\Dao.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\\u5B66\u751F\u56FE\u4E66\u7BA1\u7406\u7CFB\u7EDF\\BookManageSystem\\BookManageSystem\\Dao.cs",
-              "RelativeToolTip": "BookManageSystem\\Dao.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAuwBwAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T18:33:16.635Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "FormAdmin.cs [\u8BBE\u8BA1]",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\\u5B66\u751F\u56FE\u4E66\u7BA1\u7406\u7CFB\u7EDF\\BookManageSystem\\BookManageSystem\\FormAdmin.cs",
               "RelativeDocumentMoniker": "BookManageSystem\\FormAdmin.cs",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\\u5B66\u751F\u56FE\u4E66\u7BA1\u7406\u7CFB\u7EDF\\BookManageSystem\\BookManageSystem\\FormAdmin.cs [\u8BBE\u8BA1]",
               "RelativeToolTip": "BookManageSystem\\FormAdmin.cs [\u8BBE\u8BA1]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T17:44:01.904Z",
+              "WhenOpened": "2024-05-03T06:16:14.851Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormAddBook.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\\u5B66\u751F\u56FE\u4E66\u7BA1\u7406\u7CFB\u7EDF\\BookManageSystem\\BookManageSystem\\FormAddBook.cs",
+              "RelativeDocumentMoniker": "BookManageSystem\\FormAddBook.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\\u5B66\u751F\u56FE\u4E66\u7BA1\u7406\u7CFB\u7EDF\\BookManageSystem\\BookManageSystem\\FormAddBook.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "BookManageSystem\\FormAddBook.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T06:08:30.974Z",
               "EditorCaption": " [\u8BBE\u8BA1]"
             }
           ]
