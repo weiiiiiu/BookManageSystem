@@ -12,7 +12,7 @@ namespace BookManageSystem
         SqlConnection sc;
         public SqlConnection connect()//连接数据库的方法
         {
-            string str = @"Data Source=localhost;Initial Catalog=stduentsdb;Integrated Security=True;Encrypt=False";
+            string str = @"Data Source=localhost;Initial Catalog=studentsdb;Integrated Security=True;Encrypt=False";
             sc = new SqlConnection(str);
             sc.Open();
             return sc;

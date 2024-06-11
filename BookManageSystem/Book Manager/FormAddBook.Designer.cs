@@ -55,29 +55,26 @@
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.label1.Location = new System.Drawing.Point(77, 37);
-            this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label1.Location = new System.Drawing.Point(58, 28);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(146, 42);
+            this.label1.Size = new System.Drawing.Size(110, 31);
             this.label1.TabIndex = 0;
             this.label1.Text = "图书编号";
             // 
             // txtId
             // 
             this.txtId.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.txtId.Location = new System.Drawing.Point(261, 29);
-            this.txtId.Margin = new System.Windows.Forms.Padding(4);
+            this.txtId.Location = new System.Drawing.Point(196, 22);
             this.txtId.Name = "txtId";
-            this.txtId.Size = new System.Drawing.Size(372, 50);
+            this.txtId.Size = new System.Drawing.Size(280, 39);
             this.txtId.TabIndex = 1;
             // 
             // btnAdd
             // 
             this.btnAdd.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.btnAdd.Location = new System.Drawing.Point(99, 731);
-            this.btnAdd.Margin = new System.Windows.Forms.Padding(4);
+            this.btnAdd.Location = new System.Drawing.Point(74, 548);
             this.btnAdd.Name = "btnAdd";
-            this.btnAdd.Size = new System.Drawing.Size(214, 68);
+            this.btnAdd.Size = new System.Drawing.Size(160, 51);
             this.btnAdd.TabIndex = 2;
             this.btnAdd.Text = "添加";
             this.btnAdd.UseVisualStyleBackColor = true;
@@ -86,10 +83,9 @@
             // btnCancel
             // 
             this.btnCancel.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.btnCancel.Location = new System.Drawing.Point(399, 731);
-            this.btnCancel.Margin = new System.Windows.Forms.Padding(4);
+            this.btnCancel.Location = new System.Drawing.Point(299, 548);
             this.btnCancel.Name = "btnCancel";
-            this.btnCancel.Size = new System.Drawing.Size(214, 68);
+            this.btnCancel.Size = new System.Drawing.Size(160, 51);
             this.btnCancel.TabIndex = 3;
             this.btnCancel.Text = "取消";
             this.btnCancel.UseVisualStyleBackColor = true;
@@ -98,60 +94,54 @@
             // txtName
             // 
             this.txtName.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.txtName.Location = new System.Drawing.Point(261, 99);
-            this.txtName.Margin = new System.Windows.Forms.Padding(4);
+            this.txtName.Location = new System.Drawing.Point(196, 74);
             this.txtName.Name = "txtName";
-            this.txtName.Size = new System.Drawing.Size(372, 50);
+            this.txtName.Size = new System.Drawing.Size(280, 39);
             this.txtName.TabIndex = 5;
             // 
             // label2
             // 
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.label2.Location = new System.Drawing.Point(77, 107);
-            this.label2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label2.Location = new System.Drawing.Point(58, 80);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(82, 42);
+            this.label2.Size = new System.Drawing.Size(62, 31);
             this.label2.TabIndex = 4;
             this.label2.Text = "书名";
             // 
             // txtAuthor
             // 
             this.txtAuthor.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.txtAuthor.Location = new System.Drawing.Point(261, 171);
-            this.txtAuthor.Margin = new System.Windows.Forms.Padding(4);
+            this.txtAuthor.Location = new System.Drawing.Point(196, 128);
             this.txtAuthor.Name = "txtAuthor";
-            this.txtAuthor.Size = new System.Drawing.Size(372, 50);
+            this.txtAuthor.Size = new System.Drawing.Size(280, 39);
             this.txtAuthor.TabIndex = 7;
             // 
             // label3
             // 
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.label3.Location = new System.Drawing.Point(77, 179);
-            this.label3.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label3.Location = new System.Drawing.Point(58, 134);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(82, 42);
+            this.label3.Size = new System.Drawing.Size(62, 31);
             this.label3.TabIndex = 6;
             this.label3.Text = "作者";
             // 
             // txtPublisher
             // 
             this.txtPublisher.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.txtPublisher.Location = new System.Drawing.Point(261, 237);
-            this.txtPublisher.Margin = new System.Windows.Forms.Padding(4);
+            this.txtPublisher.Location = new System.Drawing.Point(196, 178);
             this.txtPublisher.Name = "txtPublisher";
-            this.txtPublisher.Size = new System.Drawing.Size(372, 50);
+            this.txtPublisher.Size = new System.Drawing.Size(280, 39);
             this.txtPublisher.TabIndex = 9;
             // 
             // label4
             // 
             this.label4.AutoSize = true;
             this.label4.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.label4.Location = new System.Drawing.Point(77, 245);
-            this.label4.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label4.Location = new System.Drawing.Point(58, 184);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(114, 42);
+            this.label4.Size = new System.Drawing.Size(86, 31);
             this.label4.TabIndex = 8;
             this.label4.Text = "出版社";
             // 
@@ -159,107 +149,97 @@
             // 
             this.label5.AutoSize = true;
             this.label5.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.label5.Location = new System.Drawing.Point(77, 323);
-            this.label5.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label5.Location = new System.Drawing.Point(58, 242);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(146, 42);
+            this.label5.Size = new System.Drawing.Size(110, 31);
             this.label5.TabIndex = 10;
             this.label5.Text = "出版时间";
             // 
             // txtType
             // 
             this.txtType.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.txtType.Location = new System.Drawing.Point(261, 387);
-            this.txtType.Margin = new System.Windows.Forms.Padding(4);
+            this.txtType.Location = new System.Drawing.Point(196, 290);
             this.txtType.Name = "txtType";
-            this.txtType.Size = new System.Drawing.Size(372, 50);
+            this.txtType.Size = new System.Drawing.Size(280, 39);
             this.txtType.TabIndex = 13;
             // 
             // label6
             // 
             this.label6.AutoSize = true;
             this.label6.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.label6.Location = new System.Drawing.Point(77, 389);
-            this.label6.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label6.Location = new System.Drawing.Point(58, 292);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(146, 42);
+            this.label6.Size = new System.Drawing.Size(110, 31);
             this.label6.TabIndex = 12;
             this.label6.Text = "图书类型";
             // 
             // txtPrice
             // 
             this.txtPrice.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.txtPrice.Location = new System.Drawing.Point(261, 465);
-            this.txtPrice.Margin = new System.Windows.Forms.Padding(4);
+            this.txtPrice.Location = new System.Drawing.Point(196, 349);
             this.txtPrice.Name = "txtPrice";
-            this.txtPrice.Size = new System.Drawing.Size(372, 50);
+            this.txtPrice.Size = new System.Drawing.Size(280, 39);
             this.txtPrice.TabIndex = 15;
             // 
             // label7
             // 
             this.label7.AutoSize = true;
             this.label7.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.label7.Location = new System.Drawing.Point(77, 465);
-            this.label7.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label7.Location = new System.Drawing.Point(58, 349);
             this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(82, 42);
+            this.label7.Size = new System.Drawing.Size(62, 31);
             this.label7.TabIndex = 14;
             this.label7.Text = "价格";
             // 
             // TxtNum
             // 
             this.TxtNum.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.TxtNum.Location = new System.Drawing.Point(261, 547);
-            this.TxtNum.Margin = new System.Windows.Forms.Padding(4);
+            this.TxtNum.Location = new System.Drawing.Point(196, 410);
             this.TxtNum.Name = "TxtNum";
-            this.TxtNum.Size = new System.Drawing.Size(372, 50);
+            this.TxtNum.Size = new System.Drawing.Size(280, 39);
             this.TxtNum.TabIndex = 17;
             // 
             // label8
             // 
             this.label8.AutoSize = true;
             this.label8.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.label8.Location = new System.Drawing.Point(77, 549);
-            this.label8.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label8.Location = new System.Drawing.Point(58, 412);
             this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(82, 42);
+            this.label8.Size = new System.Drawing.Size(62, 31);
             this.label8.TabIndex = 16;
             this.label8.Text = "库存";
             // 
             // txtIntroduce
             // 
             this.txtIntroduce.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.txtIntroduce.Location = new System.Drawing.Point(261, 633);
-            this.txtIntroduce.Margin = new System.Windows.Forms.Padding(4);
+            this.txtIntroduce.Location = new System.Drawing.Point(196, 475);
             this.txtIntroduce.Name = "txtIntroduce";
-            this.txtIntroduce.Size = new System.Drawing.Size(372, 50);
+            this.txtIntroduce.Size = new System.Drawing.Size(280, 39);
             this.txtIntroduce.TabIndex = 19;
             // 
             // label9
             // 
             this.label9.AutoSize = true;
             this.label9.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.label9.Location = new System.Drawing.Point(77, 633);
-            this.label9.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label9.Location = new System.Drawing.Point(58, 475);
             this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(82, 42);
+            this.label9.Size = new System.Drawing.Size(62, 31);
             this.label9.TabIndex = 18;
             this.label9.Text = "简介";
             // 
             // dtpPBDate
             // 
             this.dtpPBDate.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.dtpPBDate.Location = new System.Drawing.Point(261, 307);
-            this.dtpPBDate.Margin = new System.Windows.Forms.Padding(4);
+            this.dtpPBDate.Location = new System.Drawing.Point(196, 230);
             this.dtpPBDate.Name = "dtpPBDate";
-            this.dtpPBDate.Size = new System.Drawing.Size(372, 50);
+            this.dtpPBDate.Size = new System.Drawing.Size(280, 39);
             this.dtpPBDate.TabIndex = 20;
             // 
             // FormAddBook
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(12F, 24F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 18F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(730, 866);
+            this.ClientSize = new System.Drawing.Size(565, 710);
             this.Controls.Add(this.dtpPBDate);
             this.Controls.Add(this.txtIntroduce);
             this.Controls.Add(this.label9);
@@ -281,7 +261,6 @@
             this.Controls.Add(this.txtId);
             this.Controls.Add(this.label1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
-            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "FormAddBook";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterParent;
             this.Text = "FormAddBook";
